@@ -11,3 +11,5 @@
 	-> Copyright: © 2022 Fasm.ga | https://www.fasmga.org/license
 
 */
+
+import * as logger from "https://deno.land/std/log/mod.ts";
